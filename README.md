@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <h3>🚀 Fullstack Engineer @ <a href="#">Kindercastle</a></h3>
+  <h3>🚀 Fullstack Engineer @ <a href="https://www.kindercastle.co.id/">Kindercastle</a></h3>
   <p>💡 <i>Crafting scalable digital experiences in education & childcare</i></p>
 </div>
 
